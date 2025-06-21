@@ -19,3 +19,9 @@ print(nueva_tupla) # (10, 20, 30, 40)
 
 # La tupla original 'mi_tupla' sigue siendo la misma, sin cambios
 print(mi_tupla) # Tupla original (sin cambios): (10, 20, 30)
+
+# Porque no reasignar el valor de mi_tupla:
+# Rompe la inmutabilidad esperada: Si alguien lee tu código y ve una tupla llamada mi_tupla, espera que su valor no cambie. Si la reasignas, ya no es la tupla original.
+# Puede causar bugs: Si usas mi_tupla en otras partes del código esperando el valor original, tendrás resultados inesperados.
+# Menos claridad: Es más claro crear una nueva variable para el nuevo valor, así sabes cuál es la original y cuál es la modificada.
+# En resumen: reasignar está permitido, pero puede hacer el código menos predecible y más difícil de entender. Por eso, muchas veces es mejor crear una nueva variable
