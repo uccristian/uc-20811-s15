@@ -9,3 +9,5 @@ lista_b = [3, 4]
 
 lista_a.extend(lista_b)
 print(lista_a)
+
+

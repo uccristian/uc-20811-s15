@@ -6,3 +6,5 @@ usuarios = {
 
 for nombre in usuarios:
     print(f"Hash de '{nombre}':", hash(nombre))
+
+

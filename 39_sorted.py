@@ -4,3 +4,4 @@ print(ordenados)
 
 ordenados = sorted(numeros, reverse=True)
 print(ordenados)
+

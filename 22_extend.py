@@ -9,4 +9,3 @@ print(mi_lista_para_modificar)
 nueva_tupla_extendida = tuple(mi_lista_para_modificar)
 print(nueva_tupla_extendida) 
 
-print(mi_tupla_inicial)

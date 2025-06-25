@@ -6,3 +6,4 @@ print(nombres_amigos)
 
 nombre = nombres_amigos[0]
 print(nombre)
+

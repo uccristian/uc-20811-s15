@@ -7,3 +7,5 @@ es_cinco_primo = 5 in numeros_primos
 print(es_cinco_primo) 
 es_cuatro_primo = 4 in numeros_primos
 print(es_cuatro_primo) 
+
+

@@ -3,3 +3,5 @@ mi_lista = list(mi_tupla)
 mi_lista.reverse()
 nueva_tupla_invertida = tuple(mi_lista)
 print(nueva_tupla_invertida)
+
+

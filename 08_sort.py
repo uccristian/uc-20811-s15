@@ -9,3 +9,5 @@ print(nombres)
 precios = [50, 20, 80]
 precios.sort(reverse=True)
 print(precios)
+
+

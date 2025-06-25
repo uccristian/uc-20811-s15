@@ -8,3 +8,5 @@ print(posicion_treinta)
 
 posicion_naranja = colores.index("naranja")
 print(posicion_naranja)
+
+

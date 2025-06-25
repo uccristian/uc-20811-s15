@@ -7,3 +7,4 @@ info_libro = {
 
 valores_libro = info_libro.values()
 print(valores_libro)
+

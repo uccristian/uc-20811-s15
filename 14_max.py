@@ -5,3 +5,4 @@ print(temp_maxima)
 frutas = ["kiwi", "pera", "manzana", "banana"]
 fruta_mayor = max(frutas)
 print(fruta_mayor) 
+

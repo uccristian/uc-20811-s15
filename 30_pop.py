@@ -4,8 +4,9 @@ carrito_compras = {
     "pan": 1,
     "huevos": 12
 }
-
 cantidad_manzanas = carrito_compras.pop("manzanas")
 print(carrito_compras)
-cantidad_galletas = carrito_compras.pop("galletas", 0)
-print(carrito_compras)
+cantidad_galletas = carrito_compras.pop("galletas", 'Not found')
+print(cantidad_galletas)
+
+

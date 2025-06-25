@@ -6,3 +6,5 @@ print(mi_lista)
 
 nueva_tupla = tuple(mi_lista)
 print(nueva_tupla) 
+
+

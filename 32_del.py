@@ -7,3 +7,5 @@ empleados = {
 
 del empleados["Luis Perez"]
 print(empleados)
+
+

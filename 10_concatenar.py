@@ -7,3 +7,5 @@ nombres1 = ["Ana", "Luis"]
 nombres2 = ["Marta", "Pedro"]
 todos_los_nombres = nombres1 + nombres2
 print(todos_los_nombres) 
+
+

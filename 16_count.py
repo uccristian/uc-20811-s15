@@ -8,3 +8,4 @@ print(apariciones_cinco)
 lista_frutas = ["manzana", "banana", "manzana", "cereza", "manzana"]
 conteo_manzanas = lista_frutas.count("manzana")
 print(conteo_manzanas) 
+

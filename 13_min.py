@@ -5,3 +5,5 @@ print(edad_minima)
 palabras = ["zebra", "manzana", "perro", "casa"]
 palabra_menor = min(palabras)
 print(palabra_menor)
+
+

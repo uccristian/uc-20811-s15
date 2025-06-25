@@ -9,3 +9,4 @@ print(numeros_favoritos)
 
 numeros_favoritos.append(42)
 print(numeros_favoritos) 
+

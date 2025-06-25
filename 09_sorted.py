@@ -9,3 +9,4 @@ print(palabras_alfabeticas)
 puntuaciones = [85, 92, 78]
 puntuaciones_desc = sorted(puntuaciones, reverse=True)
 print(puntuaciones_desc)
+

@@ -7,5 +7,5 @@ info_libro = {
 
 claves_libro = info_libro.keys()
 print(claves_libro)
-for clave in claves_libro:
-    print(f"- {clave}")
+
+

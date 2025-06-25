@@ -7,3 +7,5 @@ lista_invitados = {
 
 lista_invitados.clear()
 print(lista_invitados)
+
+
